@@ -1,4 +1,4 @@
-#Programming Challenge: Grocery Store Purchase using round()
+#Programming Challenge: Grocery Store Purchase using round ()
 penne = 16.68 
 pasta =6.98 
 garlic =16.78 
