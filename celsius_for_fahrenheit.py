@@ -1,4 +1,4 @@
-#Programming : Celsius to Fahrenheit
+#Programming : Celsius to Fahrenheit code
 celsius = int(input(" enter the value for degrees celsius. "))
  
  
