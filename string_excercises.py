@@ -6,3 +6,6 @@ print(ster[12])
 
 #Print the slice "give" from the variable
 print(ster[6:10])
+
+#Get and print the slice "up" from the variable
+print(ster[11:])
