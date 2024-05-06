@@ -10,3 +10,6 @@ print(mixed_case.islower())
 
 #Change all of the letters in mixed_case to upper case letters using .upper() and print() the result.
 print(mixed_case.upper())
+
+#Change all of the letters in mixed_case to lower case letters using .lower() and print() the result.
+print(mixed_case.lower())
