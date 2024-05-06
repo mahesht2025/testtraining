@@ -13,3 +13,6 @@ print(mixed_case.upper())
 
 #Change all of the letters in mixed_case to lower case letters using .lower() and print() the result.
 print(mixed_case.lower())
+
+#Use the .istitle() method to check if mixed_case is title case and print the result.
+print(mixed_case.istitle())
