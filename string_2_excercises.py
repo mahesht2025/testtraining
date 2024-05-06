@@ -20,3 +20,9 @@ print(mixed_case.istitle())
 #Create a variable called title_case and assign it the result of .title() being called on mixed_case.
 title_case = mixed_case.title()
 print(title_case)
+
+#Call startswith() on mixed_case with the letter mixed_case starts with as its argument.  print() the result.
+print(mixed_case.startswith("A"))
+
+#Call endswith() on mixed_case with the letter mixed_case ends with as its argument.  print() the result.
+print(mixed_case.endswith("e"))
