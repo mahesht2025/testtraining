@@ -26,3 +26,10 @@ print(mixed_case.startswith("A"))
 
 #Call endswith() on mixed_case with the letter mixed_case ends with as its argument.  print() the result.
 print(mixed_case.endswith("e"))
+
+#reate a variable called words and assign it the result of split() being used on mixed_case. and print()
+words = mixed_case.split()
+print(words)
+
+#Use the .join() method to join together all of the items in the list assigned to words as a single string.  Use .isalpha() to check if the string is made up entirely of letters.  Finally, use print() to display the result.
+print("".join(words).isalpha())
