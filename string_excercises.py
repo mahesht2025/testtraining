@@ -9,3 +9,6 @@ print(ster[6:10])
 
 #Get and print the slice "up" from the variable
 print(ster[11:])
+
+#Print the slice "never" from the variable
+print(ster[0:5])
