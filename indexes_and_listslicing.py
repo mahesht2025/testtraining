@@ -12,3 +12,6 @@ furn=["chair", "table", "desk", "lamp", "bed"]
 
 #Use a negative integer to access "chair" from the variable in step 4 by index then print it.
 print(furn[-5])
+
+#Print "Most people own at least 2 chairs." by concatenating the 2 from the list in step 1 and the "chair" from the list in step 4 with "Most people own at least ", a space, and a period.
+print("Most people own at least "+str(man[0][1])+" "+furn[0]+"'s" )
