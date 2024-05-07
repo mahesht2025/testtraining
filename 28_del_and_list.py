@@ -6,3 +6,6 @@ del arctic_animals[4]
 
 #Use the .remove() method to remove the string "elephant" from the list assigned to arctic_animals.
 arctic_animals.remove("elephant")
+
+#Use the .append() method to add the string "arctic fox" to the list arctic_animals.
+arctic_animals.append("arctic_fox")
