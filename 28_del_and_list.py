@@ -9,3 +9,6 @@ arctic_animals.remove("elephant")
 
 #Use the .append() method to add the string "arctic fox" to the list arctic_animals.
 arctic_animals.append("arctic_fox")
+
+#Use .insert() to insert the string "snowy owl" between the strings "polar bear" and "walrus" inside of arctic_animals.
+arctic_animals.insert(2,"snowy owl")
