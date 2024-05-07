@@ -3,3 +3,6 @@ man =[2,90.8,True,"Thota",[4,8,7]]
 
 #Create another variable and assign it a call of the list() function with a string as its argument.
 alist = list("covid")
+
+#Use the keyword "in" to check if the letter "c" is in the list assigned to the variable from step 2 and print the result.
+print("c" in alist)
