@@ -1,0 +1,2 @@
+#Create a variable called arctic_animals and assign it the list ["penguin", "elephant", "polar bear", "walrus", "tiger", "reindeer"]
+arctic_animals=["penguin", "elephant", "polar bear", "walrus", "tiger", "reindeer"]
