@@ -6,3 +6,6 @@ alist = list("covid")
 
 #Use the keyword "in" to check if the letter "c" is in the list assigned to the variable from step 2 and print the result.
 print("c" in alist)
+
+#Use the keyword "not in" to check if the letter "d" is not in the list assigned to the variable from step 2 and print the result.
+print("d" not in alist)
