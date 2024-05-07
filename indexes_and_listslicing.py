@@ -21,3 +21,7 @@ flt=[0.98, 8.76, 6.54, 4.32]
 
 #Print the slice [8.76, 6.54, 4.32] from the variable you created in step 7.
 print(flt[1:4])
+
+#Print the slice [8.76, 6.54] from the variable you created in step 7.
+print(flt[1:3])
+
