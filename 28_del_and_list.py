@@ -21,3 +21,7 @@ print(arctic_animals)
 
 #Use .index() to get the index number of "reindeer" from arctic_animals then print it.
 print(arctic_animals.index("reindeer"))
+
+#Use .pop() to get the last item from the list arctic_animals then print it.
+print(arctic_animals.pop())
+
