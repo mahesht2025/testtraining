@@ -18,3 +18,6 @@ print("Most people own at least "+str(man[0][1])+" "+furn[0]+"'s" )
 
 #Create a third variable and assign it the list [0.98, 8.76, 6.54, 4.32]
 flt=[0.98, 8.76, 6.54, 4.32]
+
+#Print the slice [8.76, 6.54, 4.32] from the variable you created in step 7.
+print(flt[1:4])
