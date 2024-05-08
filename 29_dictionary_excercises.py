@@ -6,3 +6,6 @@ print(rv['c'])
 
 #use the in keyword to check if a key appears in the dictionary and print the result
 print('d' in rv)
+
+#use not in to check if a key does not appear in the dictionary and print the result
+print('d' not in rv)
