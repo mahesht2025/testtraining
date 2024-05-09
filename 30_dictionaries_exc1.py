@@ -13,3 +13,6 @@ print(len(songs_name))
 #use the .keys() method and a for loop to get and print all of the keys from the dictionary on separate lines
 for key in songs_name.keys():
     print(key)
+
+#print all of the values from the dictionary using the .values() method.
+print(songs_name.values()) 
