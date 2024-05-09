@@ -4,3 +4,7 @@ for key,value in {}.fromkeys("abcdefghijkl",'consonants').items():
 #paste this dictionary into your .py file then pop and print "Big Mac" from it
 fast_food_items = {"McDonald's": "Big Mac", "Burger King": "Whopper", "Chick-fil-A": "Original Chicken Sandwich"}
 print(fast_food_items.pop("McDonald's"))
+
+#se .popitem() to remove the last key: value pair from the dictionary assigned to fast_food_items then print new fast_food_items dictionary.
+fast_food_items.popitem()
+print(fast_food_items)
