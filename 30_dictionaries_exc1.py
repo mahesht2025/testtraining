@@ -9,3 +9,7 @@ songs_name={"Queen": "Bohemian Rhapsody",
 
 #print the length of the dictionary.
 print(len(songs_name))
+
+#use the .keys() method and a for loop to get and print all of the keys from the dictionary on separate lines
+for key in songs_name.keys():
+    print(key)
