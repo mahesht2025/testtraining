@@ -12,3 +12,7 @@ gamers = internet_celebrities.copy()
 internet_celebrities.clear() 
 #print internet_celebrities.
 print(internet_celebrities)
+
+#print the variable you created in step 3.
+print(gamers)
+
