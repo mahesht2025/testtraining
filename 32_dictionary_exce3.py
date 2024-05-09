@@ -10,3 +10,5 @@ gamers = internet_celebrities.copy()
 
 #use the .clear() method to get rid of the contents of internet celebrities.
 internet_celebrities.clear() 
+#print internet_celebrities.
+print(internet_celebrities)
