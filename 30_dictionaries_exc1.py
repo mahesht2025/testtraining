@@ -7,3 +7,5 @@ songs_name={"Queen": "Bohemian Rhapsody",
      "Bob Dylan": "Like A Rolling Stone"}
 #make the dictionary span multiple lines so that the line the dictionary starts on is not too long.
 
+#print the length of the dictionary.
+print(len(songs_name))
