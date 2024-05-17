@@ -3,7 +3,7 @@
 print((191 + (5 **2 ) / 4 * 7) - 134.50)
 
 # What is the value of the expression 4 * (6 + 5)
-print(4*(6+5)) # o/p:24
+print(4*(6+5)) # o/p:44
 # What is the value of the expression 4 * 6 + 5 
 print(4 * 6 + 5) # o/p:29
 # What is the value of the expression 4 + 6 * 5 
