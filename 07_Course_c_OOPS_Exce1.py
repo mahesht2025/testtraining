@@ -25,7 +25,7 @@ li = Line(coordinate1,coordinate2)
 print(li.distance()) #9.433981132056603
 print(li.slope()) #1.6
 # Problem 2
-# Fill in the class
+#Fill in the class
 
 class Cylinder:
     
@@ -46,5 +46,3 @@ print(a.surface_area()) #94.2
 
 
 
-tb=['']*10
-print(tb)
