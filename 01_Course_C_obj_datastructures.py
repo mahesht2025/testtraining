@@ -81,6 +81,6 @@ print(3 == 2.0)
 # Answer before running cell
 3.0 == 3
 print(3.0 == 3)
-# Answer before running cell
+#Answer before running cell
 4**0.5 != 2
 print(4**0.5 != 2)
