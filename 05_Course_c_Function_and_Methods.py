@@ -27,7 +27,7 @@ def ran_bool(num,low,high):
     else:
         return False
 print(ran_bool(3,1,10))
-True
+
 
 # Write a Python function that accepts a string and calculates
 # the number of upper case letters and lower case letters.
