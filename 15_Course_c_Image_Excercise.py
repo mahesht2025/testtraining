@@ -5,7 +5,7 @@
 # word_matrix.png
 # mask.png
 # The word_matrix is a .png image that contains a spreadsheet of words with a 
-# hidden message in it.
+# hidden message in it .
 
 # Your task is to use the mask.png image to reveal the hidden message inside the word
 # _matrix.png. Keep in mind, you may need to make changes to the mask.png in order for 
